@@ -1,1 +1,22 @@
-# test
+- [ ] thermal layers
+- [ ] hat
+- [ ] umbrella
+- [ ] travel adapter
+- [ ] sleeping clothes x3
+- [ ] hoodie + sweater x3
+- [ ] long pants x4
+- [ ] padded jacket
+- [ ] underwear x20
+- [ ] glove, shocks
+- [ ] skincare, moisturizer, sunscreen, toner
+- [ ] lotion
+- [ ] lip balm
+- [ ] medication
+- [ ] tooth brush
+- [ ] shoes
+- [ ] camera
+- [ ] sunglases
+- [ ] perfume
+- [ ] charger
+- [ ] water bottle
+- [ ] earphone
